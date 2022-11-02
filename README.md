@@ -6,8 +6,8 @@ and Abdullah Ahmad.
 
 # Mechanism Specifications
 
-Raspberry Pi 3 Model B
-Breakbeam sensor
+Raspberry Pi 3 Model B,
+Breakbeam sensor,
 Miniature RC Servomotor
 
 # Our Research
